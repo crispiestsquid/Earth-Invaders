@@ -1,0 +1,42 @@
+<projectDescription>
+  <id>1323213401109</id>
+  <name>EarthInvaders</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/CrispiestSquid/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/CrispiestSquid/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/EarthInvaders_Final.fla</defaultApp>
+  <rootURI>file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="EarthInvaders_Final.fla">file:///Macintosh HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/EarthInvaders_Final.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="ScreenLose.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/ScreenLose.as</uri>
+    <uri label="SoldierArrow.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/SoldierArrow.as</uri>
+    <uri label="Soldier.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/Soldier.as</uri>
+    <uri label="ScreenUpgrade.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/ScreenUpgrade.as</uri>
+    <uri label="ScreenMenu.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/ScreenMenu.as</uri>
+    <uri label="ScreenInstructions.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/ScreenInstructions.as</uri>
+    <uri label="ScreenGame.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/ScreenGame.as</uri>
+    <uri label="Ranged.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/Ranged.as</uri>
+    <uri label="Player.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/Player.as</uri>
+    <uri label="Block.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/Block.as</uri>
+    <uri label="Arrow.as">file:///Macintosh%20HD/Users/CrispiestSquid/Desktop/Earth_Invaders_Beta/Arrow.as</uri>
+    <uri label="EarthInvaders_Alpha.fla">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/EarthInvaders_Alpha.fla</uri>
+    <uri label="SoldierArrow.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/SoldierArrow.as</uri>
+    <uri label="Soldier.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/Soldier.as</uri>
+    <uri label="ScreenUpgrade.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/ScreenUpgrade.as</uri>
+    <uri label="ScreenMenu.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/ScreenMenu.as</uri>
+    <uri label="ScreenInstructions.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/ScreenInstructions.as</uri>
+    <uri label="ScreenGame.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/ScreenGame.as</uri>
+    <uri label="Ranged.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/Ranged.as</uri>
+    <uri label="Player.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/Player.as</uri>
+    <uri label="Block.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/Block.as</uri>
+    <uri label="Arrow.as">file:///Macintosh HD/Users/CrispiestSquid/Desktop/filesfromsteve/Arrow.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
